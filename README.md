@@ -2,7 +2,9 @@
 Soon a graduated Front-end Developer from 🇳🇴 looking to solve real world problems! 
 I am versatilist and can adapt to different hats (Front-End WebDeveloper, UX/UI- or Graphic Designer) 
 depending on what you need me to do 🕵🏼‍♀️
-
+<br><br>
+Shall we get in touch? 
+<br><br>
 <b>You can currently reach out to me on my ...</b>
 <br>
 ✉️ [Email](monika.ml@outlook.com)
