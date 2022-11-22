@@ -12,8 +12,9 @@ Shall we get in touch?
 or
 <br>
 👥 [LinkedIn](monika.ml@outlook.com)
-
-
+<br><br>
+￫ Link to my portfolio can be found here.
+<br><br>
 ## 🛠️ My tech stack 
 
 ### Back-end
