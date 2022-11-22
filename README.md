@@ -7,7 +7,7 @@ Shall we get in touch?
 <br><br>
 <b>You can currently reach out to me on my ...</b>
 <br>
-✉️ [Email](mailto:monika.ml@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+✉️ [Email](mailto:monika.ml@outlook.com)
 <br>
 or
 <br>
@@ -69,3 +69,4 @@ or
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br><br>
