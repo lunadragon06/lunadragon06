@@ -5,9 +5,9 @@ depending on what you need me to do 🕵🏼‍♀️
 <br><br>
 Shall we get in touch? 
 <br><br>
-<b>You can currently reach out to me on my ...</b>
+<b>You can currently reach out to me on ...</b>
 <br>
-✉️ [Email](monika.ml@outlook.com)
+✉️ <monika.ml@outlook.com>
 <br>
 or
 <br>
