@@ -13,7 +13,9 @@ or
 <br>
 👥 [LinkedIn](https://www.linkedin.com/in/monika-lie/)
 <br><br>
-￫ Link to my portfolio can be found here.
+￫ Link to my portfolio can be found [here](here).
+<br>
+(Portfolio coming soon ...)
 <br><br>
 ## 🛠️ My tech stack 
 
