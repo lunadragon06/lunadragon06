@@ -11,7 +11,7 @@ Shall we get in touch?
 <br>
 or
 <br>
-👥 [LinkedIn](monika.ml@outlook.com)
+👥 [LinkedIn](https://www.linkedin.com/in/monika-lie/)
 <br><br>
 ￫ Link to my portfolio can be found here.
 <br><br>
