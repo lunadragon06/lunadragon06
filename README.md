@@ -15,7 +15,7 @@ or
 <br><br>
 ￫ Link to my portfolio can be found [here](here).
 <br>
-(Portfolio coming soon ...)
+(Obs! Actual portfolio link will come soon ...)
 <br><br>
 ## 🛠️ My tech stack 
 
