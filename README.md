@@ -1,4 +1,4 @@
-# Hellu there, I'm Monika 👋
+# Hellu there, I'm Monika 👋 
 Soon a graduated Front-end Developer from 🇳🇴 looking to solve real world problems! 
 I am versatilist and can adapt to different hats (Front-End WebDeveloper, UX/UI- or Graphic Designer) 
 depending on what you need me to do 🕵🏼‍♀️
