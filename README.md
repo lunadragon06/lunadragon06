@@ -3,7 +3,7 @@ Soon a graduated Front-end Developer from 🇳🇴 looking to solve real world p
 I am versatilist and can adapt to different hats (Front-End WebDeveloper, UX/UI- or Graphic Designer) 
 depending on what you need me to do 🕵🏼‍♀️
 <br><br>
-When I am not juggling between web- and design projects & jobs; I am a dog mama to a 4-year-old Eurasier boy 🐶 hobby photograph 📸 and casual MMORPG/RPG gamer 🎮  
+When I am not juggling between web- and design projects & jobs; I'm dog mama to a 4-year-old Eurasier boy 🐶 hobby photograph 📸 and casual MMORPG/RPG gamer 🎮  
 <br><br>
 Shall we start a project together or just want to get in touch? 
 <br><br>
