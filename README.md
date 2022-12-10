@@ -7,7 +7,7 @@ When I am not juggling between web- and design projects & jobs; I'm dog mama to 
 <br><br>
 Shall we start a project together or just want to get in touch? 
 <br><br>
-<b>You can currently reach out to me on my ...</b>
+<b>You can currently reach out to me on my ...</b> 
 <br>
 ✉️ [Email](mailto:monika.ml@outlook.com)
 <br>
