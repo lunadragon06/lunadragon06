@@ -3,7 +3,7 @@ Soon a graduated Front-end Developer from 🇳🇴 looking to solve real world p
 I am versatilist and can adapt to different hats (Front-End WebDeveloper, UX/UI- or Graphic Designer) 
 depending on what you need me to do 🕵🏼‍♀️
 <br><br>
-When I'm not juggling between coding- and design projects & jobs; I'm dog mama to 4-year-old Eurasier boy 🐶 hobby photograph 📸 and casual RPG gamer 🎮  
+When I am not juggling between web- and design projects & jobs; I am a dog mama to a 4-year-old Eurasier boy 🐶 hobby photograph 📸 and casual MMORPG/RPG gamer 🎮  
 <br><br>
 Shall we start a project together or just want to get in touch? 
 <br><br>
@@ -15,9 +15,9 @@ or
 <br>
 👥 [LinkedIn](https://www.linkedin.com/in/monika-lie/)
 <br><br>
-￫ Link to my portfolio can be found [here](here).
+<b>Note:</b> Please rather use provided contact info from above rather through my contact form via portfolio, since it's temporarily out of service 🩹 
 <br>
-(Obs! Actual portfolio link will come soon ...)
+￫ Link to my current portfolio page can be found [here](https://lunadragondesign.netlify.app/).
 <br><br>
 ## 🛠️ My tech stack 
 
