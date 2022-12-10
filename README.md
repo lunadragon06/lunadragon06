@@ -4,7 +4,7 @@ I am versatilist and can adapt to different hats (Front-End WebDeveloper, UX/UI-
 depending on what you need me to do 🕵🏼‍♀️
 <br><br>
 When I am not juggling between web- and design projects & jobs; I'm dog mama to 4-year-old Eurasier boy 🐶 hobby photograph 📸 and casual MMORPG/RPG gamer 🎮  
-<br><br>
+<br><br> 
 Shall we start a project together or just want to get in touch? 
 <br><br>
 <b>You can currently reach out to me on my ...</b> 
