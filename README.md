@@ -15,7 +15,7 @@ or
 <br>
 👥 [LinkedIn](https://www.linkedin.com/in/monika-lie/)
 <br><br>
-<b>Note:</b> Please rather use provided contact info from above rather through my contact form via portfolio, since it's temporarily out of service 🩹 
+<b>Note:</b> Please rather use provided contact info above rather through contact form via portfolio, since it's temporarily out of service 🩹 
 <br>
 ￫ Link to my current portfolio page can be found [here](https://lunadragondesign.netlify.app/).
 <br><br>
